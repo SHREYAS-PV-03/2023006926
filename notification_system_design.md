@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Stage 1 – REST API Design
 
 ## Endpoints
@@ -152,3 +153,6 @@ Complexities:
 * Insert: O(log n)
 * Remove: O(log n)
 * Top N: O(n log n)
+=======
+# Campus Notification System Design
+>>>>>>> 930a8769dedacce7a9e3c62e7b5409c94eb7cd4e
